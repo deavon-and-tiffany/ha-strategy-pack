@@ -14,7 +14,7 @@
     }
   },
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "typia": "^9.3.1"
   },
   "devDependencies": {
